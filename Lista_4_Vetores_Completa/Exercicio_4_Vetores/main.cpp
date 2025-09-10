@@ -12,7 +12,7 @@ int main()
    cout << "Preencha o vetor com 8 numeros:" << endl;
    for(int i = 0; i < A.size(); i++){
         cout << "Posicao " << i + 1 << ": ";
-        cin >> A[i];
+        cin >> A[i];	
    }
 
    cout << "Digite a primeira posicao (X): ";
